@@ -20,6 +20,7 @@
     top: 25px;
     left: 110px;
     width: 110px;
+    cursor: pointer;
 }
 
 .list {
@@ -35,9 +36,10 @@
     font-size: 15px;
     font-weight: 200;
     color: #C5C4C1;
+    cursor: pointer;
 }
 
-.list-item:first-child {
+.list-item:hover {
     color: #F1F0EF;
     font-weight: 500;
 }
@@ -56,6 +58,8 @@
     border: 1px solid #8A7B32;
     color: #8A7B32;
     border-radius: 8px;
+    outline: none;
+    cursor: pointer;
 }
 
 .left-text {
