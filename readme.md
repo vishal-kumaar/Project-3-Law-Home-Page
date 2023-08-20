@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://law-home-site.vercel.app/
+https://vishal-kumaar.github.io/Project-3-Law-Home-Page/
 
 ## ✨ Project-3: Law Home Page ✨
 
